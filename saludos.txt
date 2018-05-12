@@ -1,1 +1,3 @@
 Hola Clase!
+
+Estamos empenzando con GIT
