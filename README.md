@@ -21,3 +21,5 @@ Podría **enfatizar** texto
 3. Item 3
 
 Podéis ver cuántas cosas se pueden hacer en [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Cambio conflictivo
