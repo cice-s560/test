@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hola, soy Gonzalo Cedillo
 Hola, soy Javi
+=======
+Hola, Soy Jose Antonio
+>>>>>>> 6e37386ee02d8e13a0e2256628b1baaa5d7dec86
