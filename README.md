@@ -22,4 +22,6 @@ Podría **enfatizar** texto
 
 Podéis ver cuántas cosas se pueden hacer en [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Cambio conflictivo
+
+Cambio conflictivo que convive con **Nuevo cambio** después de resolver el conflicto
+
